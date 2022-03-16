@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.margin-top-style{
+  margin-top: 60px !important;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(226, 212, 212);
+  color: rgb(155, 11, 11);
+  text-align: center;
+}
